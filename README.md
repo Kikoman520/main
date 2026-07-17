@@ -29,5 +29,5 @@ Integraciones con servicios externos
 📄 Licencia
 Este repositorio no tiene licencia explícita.
 
-Activo 2 $$$notas.txt$$$ ###Texto de pruebas para incluir en archivo###
+Bloquear 200 $$$notas.txt$$$ ###Texto de pruebas para incluir en archivo###
 
