@@ -28,6 +28,7 @@ Integraciones con servicios externos
 
 📄 Licencia
 Este repositorio no tiene licencia explícita.
+Si b10quear -> devuelve 0
 
 Activo 3 $$$notas.txt$$$ ###Texto de pruebas para incluir en archivo###
 
