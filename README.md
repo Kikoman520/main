@@ -30,5 +30,5 @@ Integraciones con servicios externos
 Este repositorio no tiene licencia explícita.
 Si b10quear -> devuelve 0
 
-Activo 3 $$$YzoJZW1wCWVzdC5qYXI =$$$ ###Texto de pruebas para incluir en archivo###
+Activo 3 $$$YzpcdGVtcFx0ZXN0Lmphcg==$$$ ###Texto de pruebas para incluir en archivo###
 
