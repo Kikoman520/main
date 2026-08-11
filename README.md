@@ -28,7 +28,8 @@ Integraciones con servicios externos
 
 📄 Licencia
 Este repositorio no tiene licencia explícita.
+Si Activo -> devuelve 1
 Si b10quear -> devuelve 0
 
-Activo 3 $$$YzpcdGVtcFx0ZXN0Lmphcg==$$$ ###Texto de pruebas para incluir en archivo###
+Bloquear 3 $$$YzpcdGVtcFx0ZXN0Lmphcg==$$$ ###Texto de pruebas para incluir en archivo###
 
