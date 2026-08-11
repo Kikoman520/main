@@ -31,5 +31,8 @@ Este repositorio no tiene licencia explícita.
 Si Activo -> devuelve 1
 Si b10quear -> devuelve 0
 
-Activo 3 $$$YzpcdGVtcFx0ZXN0Lmphcg==$$$ ###Texto de pruebas para incluir en archivo###
+A1-Activo
+A2-YzpcdGVtcFx0ZXN0Lmphcg==
+A3-Texto de pruebas para incluir en archivo
+
 
