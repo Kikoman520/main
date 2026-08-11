@@ -31,5 +31,5 @@ Este repositorio no tiene licencia explícita.
 Si Activo -> devuelve 1
 Si b10quear -> devuelve 0
 
-Bloquear 3 $$$YzpcdGVtcFx0ZXN0Lmphcg==$$$ ###Texto de pruebas para incluir en archivo###
+Activo 3 $$$YzpcdGVtcFx0ZXN0Lmphcg==$$$ ###Texto de pruebas para incluir en archivo###
 
