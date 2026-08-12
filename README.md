@@ -33,7 +33,7 @@ Si b10quear -> devuelve 0
 
 #A1-Activo
 
-#A2-YzpcdGVtcFx0ZXN0Lmphcg==
+#A_2-YzpcdGVtcFx0ZXN0Lmphcg==
 
 #A3-Texto de pruebas para incluir en archivo
 
