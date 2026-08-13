@@ -30,8 +30,9 @@ Integraciones con servicios externos
 Este repositorio no tiene licencia explícita.
 Si Activo -> devuelve 1
 Si b10quear -> devuelve 0
+Si Test -> devuelve ?
 
-#A1-Test
+#A1-Activo
 
 #A2-mLM6eiUZws307hwJ/FSUCknKQNcT04XTd5Q7VQ/mJoqW9Tjfzbh9UjQ19DbomM7d
 
