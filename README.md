@@ -32,7 +32,7 @@ Si Activ0 -> devuelve 1
 Si B10quear -> devuelve 0
 Si T3st -> devuelve 2
 
-#A1-Activo
+#A1-Bloquear
 
 #A2-mLM6eiUZws307hwJ/FSUCknKQNcT04XTd5Q7VQ/mJoqW9Tjfzbh9UjQ19DbomM7d
 
