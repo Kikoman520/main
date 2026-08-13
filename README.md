@@ -30,7 +30,7 @@ Integraciones con servicios externos
 Este repositorio no tiene licencia explícita.
 Si Activ0 -> devuelve 1
 Si b10quear -> devuelve 0
-Si T3st -> devuelve ?
+Si T3st -> devuelve 2
 
 #A1-Test
 
