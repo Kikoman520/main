@@ -28,9 +28,9 @@ Integraciones con servicios externos
 
 📄 Licencia
 Este repositorio no tiene licencia explícita.
-Si Activo -> devuelve 1
+Si Activ0 -> devuelve 1
 Si b10quear -> devuelve 0
-Si Test -> devuelve ?
+Si T3st -> devuelve ?
 
 #A1-Bloquear
 
